@@ -1,1 +1,5 @@
-HOME
+---
+home: true
+bgImage: '/images/bg.jpg'
+
+---
